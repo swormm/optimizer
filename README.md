@@ -1,5 +1,7 @@
 # Optimizer 🛠️
 
+![Logo de l'Optimizer](https://i.imgur.com/9e04KN7.png)  <!-- Remplace cette URL par celle de ton image -->
+
 Optimizer est un script Python conçu pour optimiser les paramètres système de Windows, en sauvegardant et restaurant les paramètres essentiels, en nettoyant le disque et en gérant les services.
 
 ## Fonctionnalités 🌟
