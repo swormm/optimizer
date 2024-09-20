@@ -15,7 +15,7 @@ Optimizer est un script Python conçu pour optimiser les paramètres système de
 
 Pour utiliser Optimizer, suivez les étapes ci-dessous :
 
-1. **Clonez le dépôt** // **Ou allors juste installer le .exe et le lancer **:
+1. **Clonez le dépôt** - **Ou allors juste installer le .exe et le lancer**:
    ```bash
    git clone https://github.com/swormm/optimizer.git
    cd optimizer
