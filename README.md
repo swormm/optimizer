@@ -14,10 +14,10 @@ Optimizer est un script Python conçu pour optimiser les paramètres système de
 Pour utiliser Optimizer, suivez les étapes ci-dessous :
 
 1. **Clonez le dépôt** :
-   ...bash
+   ```bash
    git clone https://github.com/swormm/optimizer.git
    cd optimizer
-   ...bash
+   ```
 
 2. **Installez les dépendances** :
    Assurez-vous d'avoir Python 3 installé, puis exécutez :
